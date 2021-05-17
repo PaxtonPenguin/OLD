@@ -6,4 +6,4 @@ This is some old stuff on a MacBook
 
 scratch projects
 
-# Bypaxton
+# By Paxton
