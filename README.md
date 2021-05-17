@@ -2,8 +2,8 @@
 
 This is some old stuff on a MacBook
 
-#.sb3 files
+# .sb3 files
 
 scratch projects
 
-#Bypaxton
+# Bypaxton
