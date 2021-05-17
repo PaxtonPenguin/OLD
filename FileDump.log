@@ -1,0 +1,7 @@
+error: stack overflow
+System.IO.FileNotFoundException:
+Could not find file D:\Homework[Secret]\
+Know\Start.dll
+Could not find file D:\Homework[Secret]\
+Know\setup.dll
+Dump cache;

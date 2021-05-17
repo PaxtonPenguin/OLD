@@ -1,0 +1,6 @@
+-- @block
+CREATE TABLE Non(
+    order  INT VARCHAR(5) AUTO_INCREMENT,
+    id INT VARCHAR(3) AUTO_INCREMENT,
+    part VARCHAR(4)
+);

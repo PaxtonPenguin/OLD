@@ -1,0 +1,10 @@
+xcv360edit ^|*|^
+<In>
+Codex Synth.peep
+editfile=Codex
+editing Codex
+ex(<#rts#>[Codex)X]
+editing X
+del(X)
+deleted X
+xcv360end

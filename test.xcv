@@ -1,0 +1,19 @@
+xcv360
+	func xcv
+		user = "Peep"
+		text(This is some on-screen text)
+		import del
+		func u45968
+			<delete me>
+			<comment>
+		del = func(u45968)
+	import code
+	code = user
+	import draw
+	qwerty(draw: penguin.jpeg)
+	import server
+	qwerty(server)
+	qwerty(server setup)
+	qwerty(server:101.101.101.01)
+	qwerty(end)
+end

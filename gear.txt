@@ -1,0 +1,11 @@
+|end|xcv360|
+gear=s
+gear=l
+gear=xs
+gear=l
+->
+ghs qwerty
+%I $l $i
+foe $l
+*ex qwe...
+hint*Y @ end

@@ -1,0 +1,97 @@
+>xcv360 #2l<^D^>:D>
+>"Fncdi-Sub-Cha.trace">load '7678245929'
+>Code<s t a r t >
+>xcv360(<<:_:|()@PP7678245929?/\2(7678245929(000)7678245929)>@T2-1+7=C8>@#2l01134)
+                                                                     ++
+                                                                     R8
+>new
+><Paxton$><0><Run=line4->line6><7678245929>
+
+>xcv360edit ^|*|^
+><In>
+Codex Synth.peep
+>editfile=Codex
+editing Codex
+>ex(<#rts#>[Codex)X]
+editing X
+>del(X)
+deleted X
+>xcv360end
+
+|end|xcv360|
+gear=s
+gear=l
+gear=xs
+gear=l
+->
+ghs qwerty
+%I $l $i
+foe $l
+*ex qwe...
+hint*Y @ end
+
+<old>
+PP[%@Poogle@del#(Drive#%){]DEL.pkg}
+PPeYMCA[%app^^^*%{]Peep^^^*{]^Re^^*{]^^New^*{]^^^Relems*}}}}
+PP[Peep$^^^#P.C.#^^^<%PC%>?^^^*^^^{]{{{start}}}}
+PP[Qwerty]{O{R{ {101+101=202 Peep1+Peep1=Peep2} }R}O}
+[Terminal{] {{{Download}}}}
+PP[{Peep$[%PC%^^^[*^^^(allow[Peep}]]]]
+<end>
+
+<sticcode>
+Stic{16q32a}
+Stic[16Q32A]
+2020(qa)-(QA)
+R-Boot=Stic^^^Stic
+Inf=2020(qa)-(QA)
+16+32=Error
+R-Boot+2020+Inf=InfBoot2020.drive
+Stic.exe=add-to-Drive
+Access=Stic.exe
+123-456-789-000
+Code=123-456-789-000
+Install-InfBoot2020
+Inf.pkg-Read
+-
+--
+---
+----
+-----
+Installed
+Zoomx2020-VidChat.pkg
+-
+--
+---
+----
+-----
+Installed
+InfBoot2020vr1.0.1
+Stic=R-Boot+2020+Inf=InfBoot2020.drive
+Overwyte-penguins.DEL.pkg
+3-2-1
+Over
+Peep.jar is crafted 
+Peeeeeeeeeeeeeeeeeeeeeeeeeep-Test is over
+9profuilrufirsdsvuid.bundle is crafted
+<end>
+
+xcv360
+   qwerty(uhn)
+      uhn(api)
+         api(side.sheet)
+         sheet(side.api)
+      reverse
+    qwerty(stop)
+    
+xcv360
+   func del
+      user = "paxton"
+      func u
+         import del
+         del func(u)
+         u = "45968"
+       del func(del)
+    import code
+    stopcode = u
+    code = user

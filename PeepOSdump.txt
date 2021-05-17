@@ -1,0 +1,388 @@
+	
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	
+	<string>$(EXECUTABLE_NAME)</string>
+	
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	
+	<string>6.0</string>
+	
+	<string>$(PRODUCT_NAME)</string>
+	
+	<string>$(PRODUCT_BUNDLE_PACKAGE_TYPE)</string>
+	
+	<string>1.0</string>
+	
+	<string>1</string>
+	
+	<string>UIInterfaceOrientationPortrait</string>
+	
+	<string>UIInterfaceOrientationPortraitUpsideDown</string>
+	
+	<string>UIInterfaceOrientationLandscapeLeft</string>
+	
+	<string>UIInterfaceOrientationLandscapeRight</string>
+	
+	<string>UIInterfaceOrientationPortrait</string>
+	
+	<string>UIInterfaceOrientationLandscapeLeft</string>
+	
+	<string>UIInterfaceOrientationLandscapeRight</string>
+	
+		20B0ABFF23537DCB00B5A3F8 
+		20B0AC0123537DCB00B5A3F8 
+		20B0AC0523537DCD00B5A3F8 
+		20B0AC0823537DCD00B5A3F8 
+		20B0AC0B23537DCD00B5A3F8 
+		20B0AC1623537DCE00B5A3F8 
+		20B0AC2123537DCE00B5A3F8 
+		20B0AC2E23537EBE00B5A3F8 
+		20B0AC2F23537F0700B5A3F8 
+		20B0AC3123537F2B00B5A3F8 
+		20B0AC3323537F3800B5A3F8 
+		20B0AC3D23554B5200B5A3F8
+		20B0AC3F23554B5200B5A3F8 
+		20B0AC4123554B5200B5A3F8 
+		20B0AC4323554B5300B5A3F8 
+		20B0AC4623554B5300B5A3F8 
+		20B0AC4923554B5300B5A3F8 
+		20B0AC5423554B5300B5A3F8 
+		20B0AC5F23554B5300B5A3F8
+		
+		20B0ABFB23537DCB00B5A3F8 
+		20B0ABFE23537DCB00B5A3F8 
+		20B0AC0023537DCB00B5A3F8 
+		20B0AC0223537DCB00B5A3F8 
+		20B0AC0423537DCD00B5A3F8 
+		20B0AC0723537DCD00B5A3F8 
+		20B0AC0A23537DCD00B5A3F8 
+		20B0AC0C23537DCD00B5A3F8
+		20B0AC1123537DCE00B5A3F8 
+		20B0AC1523537DCE00B5A3F8 
+		20B0AC1723537DCE00B5A3F8 
+		20B0AC1C23537DCE00B5A3F8 
+		20B0AC2023537DCE00B5A3F8 
+		20B0AC2223537DCE00B5A3F8 
+		20B0AC352355475100B5A3F8 
+		20B0AC3A23554B5200B5A3F8 
+		20B0AC3C23554B5200B5A3F8 
+		20B0AC3E23554B5200B5A3F8 
+		20B0AC4023554B5200B5A3F8 
+		20B0AC4223554B5300B5A3F8 
+		20B0AC4523554B5300B5A3F8 
+		20B0AC4823554B5300B5A3F8 
+		20B0AC4A23554B5300B5A3F8 
+		20B0AC4F23554B5300B5A3F8 
+		20B0AC5323554B5300B5A3F8 
+		20B0AC5523554B5300B5A3F8 
+		20B0AC5A23554B5300B5A3F8
+		20B0AC5E23554B5300B5A3F8 
+		20B0AC6023554B5300B5A3F8 
+		
+		ALWAYS_SEARCH_USER_PATHS = NO;
+		CLANG_ANALYZER_NONNULL = YES;
+		CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+		CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+		CLANG_CXX_LIBRARY = "libc++";
+		CLANG_ENABLE_MODULES = YES;
+		CLANG_ENABLE_OBJC_ARC = YES;
+		CLANG_ENABLE_OBJC_WEAK = YES;
+		CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+		CLANG_WARN_BOOL_CONVERSION = YES;
+		CLANG_WARN_COMMA = YES;
+		CLANG_WARN_CONSTANT_CONVERSION = YES;
+		CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+		CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+		CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+		CLANG_WARN_EMPTY_BODY = YES;
+		CLANG_WARN_ENUM_CONVERSION = YES;
+		CLANG_WARN_INFINITE_RECURSION = YES;
+		CLANG_WARN_INT_CONVERSION = YES;
+		CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+		CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+		CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+		CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+		CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+		CLANG_WARN_STRICT_PROTOTYPES = YES;
+		CLANG_WARN_SUSPICIOUS_MOVE = YES;
+		CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+		CLANG_WARN_UNREACHABLE_CODE = YES;
+		CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+		COPY_PHASE_STRIP = NO;
+		DEBUG_INFORMATION_FORMAT = dwarf;
+		ENABLE_STRICT_OBJC_MSGSEND = YES;
+		ENABLE_TESTABILITY = YES;
+		GCC_C_LANGUAGE_STANDARD = gnu11;
+		GCC_DYNAMIC_NO_PIC = NO;
+		GCC_NO_COMMON_BLOCKS = YES;
+		GCC_OPTIMIZATION_LEVEL = 0;
+		GCC_PREPROCESSOR_DEFINITIONS = ("DEBUG=1", "$(inherited)", );
+		GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+		GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+		GCC_WARN_UNDECLARED_SELECTOR = YES;
+		GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+		GCC_WARN_UNUSED_FUNCTION = YES;
+		GCC_WARN_UNUSED_VARIABLE = YES;
+		PEEPOS_DEPLOYMENT_TARGET = 13.1;
+		MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+		MTL_FAST_MATH = YES;
+		ONLY_ACTIVE_ARCH = YES;
+		SDKROOT = peepos;
+		SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+		SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+	
+	20B0AC2623537DCE00B5A3F8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Peep Development";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_ASSET_PATHS = "Preview Content";
+				DEVELOPMENT_TEAM = "";
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = "Info.plist";
+				PEEPOS_DEPLOYMENT_TARGET = 13.1;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "www.Paxton-Penguin.com";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		20B0AC2723537DCE00B5A3F8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "Preview Content";
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = "Info.plist";
+				PEEPOS_DEPLOYMENT_TARGET = 13.1;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "www.Paxton-Penguin.com";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		20B0AC2923537DCE00B5A3F8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_IDENTITY = "Peep Development";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Peep Development";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = "";
+				INFOPLIST_FILE = "Info.plist";
+				PEEPOS_DEPLOYMENT_TARGET = 13.1;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "www.Tests.com";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=macosx*]" = "";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)www.Paxton.app";
+			};
+			name = Debug;
+		};
+		20B0AC2A23537DCE00B5A3F8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_IDENTITY = "Peep Development";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Peep Development";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = "";
+				INFOPLIST_FILE = "Info.plist";
+				PEEPOS_DEPLOYMENT_TARGET = 13.1;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "www.Tests.com";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=macosx*]" = "";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)www.Paxton.app";
+			};
+			name = Release;
+		};
+		20B0AC2C23537DCE00B5A3F8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "www.UITests.com";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "GUI";
+			};
+			name = Debug;
+		};
+		20B0AC2D23537DCE00B5A3F8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "www.UITests.com";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "GUI";
+			};
+			name = Release;
+		};
+		20B0AC6223554B5300B5A3F8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "Preview Content";
+				DEVELOPMENT_TEAM = 9452J27988;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = "Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "www.Paxton.net";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		20B0AC6323554B5300B5A3F8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "Preview Content";
+				DEVELOPMENT_TEAM = 9452J27988;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = "Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "www.Paxton.net";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		20B0AC6523554B5300B5A3F8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 9452J27988;
+				INFOPLIST_FILE = "Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.1;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "www.Tests.com";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)www.Tests.app";
+			};
+			name = Debug;
+		};
+		20B0AC6623554B5300B5A3F8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 9452J27988;
+				INFOPLIST_FILE = "Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.1;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "www.Tests.com";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)www.Tests.app";
+			};
+			name = Release;
+		};
+		20B0AC6823554B5300B5A3F8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 9452J27988;
+				INFOPLIST_FILE = "Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "www.UITests.com";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "GUI";
+			};
+			name = Debug;
+		};
+		20B0AC6923554B5300B5A3F8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 9452J27988;
+				INFOPLIST_FILE = "Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "www.UITests.com";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "GUI";
+	

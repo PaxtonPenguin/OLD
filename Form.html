@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="shortcut icon" type="image/x-icon" href="PP 512x512.ico">
+<title>Stuff</title>
+</head>
+<body>
+<div>
+<a href="input.html"><button>Back To Form</button></a>
+<script>
+	const resultsList = document.getElementById('results')
+	new URLSearchParams(window.location.search).forEach((value, 
+	name) => {
+		resultsList.append(`${name}: ${value}`)
+		resultsList.append(document.createElement('br'))
+	})
+</script>
+</div>
+</body>
+</html>
